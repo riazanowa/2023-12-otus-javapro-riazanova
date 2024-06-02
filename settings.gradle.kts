@@ -1,5 +1,6 @@
 rootProject.name = "2023-12-otus-javapro-riazanova"
 include("hw01-gradle")
+include("hw02-generics")
 
 
 pluginManagement {
